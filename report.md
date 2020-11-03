@@ -15,7 +15,7 @@
 ## Результаты
 
 1. 100% неуспешных тестов
-2. (Баг-репорт)[https://github.com/mlleila/MoneyTransfer/issues/1]
+2. [Баг-репорт](https://github.com/mlleila/MoneyTransfer/issues/1)
 
 ## Общие рекомендации
 
